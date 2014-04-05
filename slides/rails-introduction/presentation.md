@@ -31,7 +31,7 @@
 ##そもそもなんでWebサイトをプログラミングするの？
 
 
-###Twitterのようなページを作りたい![Chrome](icon_chrome.png)
+###Twitterのようなページを作りたい![Chrome](icon_chrome.png) <!-- .element: class="icon" -->
 ![Life is Tech! Twitter](lit_twitter.png)
 
 
